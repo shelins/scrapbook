@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+}
+canvas {
+  border: 2px solid #ccc;
+  margin-top: 10px;
+}
+#controls {
+  margin-top: 15px;
+}
+input, select, button {
+  margin: 5px;
+  padding: 5px;
+}
